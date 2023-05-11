@@ -59,7 +59,7 @@ const vi = {
         name: "Kiến thức",
         description:
           "Các bài viết liên quan về đăng kí thuốc.",
-        value: ["code", "algorithm"],
+        value: ["regulation", "knowledge"],
       },
       {
         name: "Tutorial & Tips",
