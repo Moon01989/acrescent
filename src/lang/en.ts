@@ -57,7 +57,19 @@ const en = {
     },
     featured_posts: "Featured Posts",
     read_more: "Read more",
-    categories: [
+    categories: [  
+      {
+        name: "Review",
+        description:
+          "Related posts about review.",
+        value: ["review", "book","course"],
+      },
+      {
+        name: "Raising Kids",
+        description:
+          "Related posts about raising kids.",
+        value: ["kids", "raising"],
+      },
       {
         name: "Knowledge",
         description:
