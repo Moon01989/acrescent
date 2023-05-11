@@ -62,7 +62,7 @@ const en = {
         name: "Knowledge",
         description:
           "Related posts about regulation.",
-        value: ["code", "algorithm"],
+        value: ["regulation", "knowledge"],
       },
       {
         name: "Tutorial & Tips",
