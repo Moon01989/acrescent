@@ -55,6 +55,18 @@ const vi = {
     featured_posts: "Bài Viết Đặc Sắc",
     read_more: "Xem thêm",
     categories: [
+     {
+        name: "Review",
+        description:
+          "Các bài viết liên quan đến review sách, khóa học",
+        value: ["review", "book","course"],
+      },
+      {
+        name: "Nuôi dạy trẻ",
+        description:
+          "Các bài viết liên quan đến nuôi dạy trẻ",
+        value: ["kids", "raising"],
+      },
       {
         name: "Kiến thức",
         description:
